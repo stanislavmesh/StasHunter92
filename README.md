@@ -53,6 +53,7 @@
 <h3 align="center">Testing:
   
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Pytest](https://img.shields.io/badge/Pytest-3670A0?style=for-the-badge&logo=pytest&logoColor=yellow)
   
 </h3>
   
