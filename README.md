@@ -6,7 +6,13 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stashunter92&show_icons=true&theme=material-palenight) -->
 
 ---
+<h3 align="center">🌐 Socials:
   
+  [![VK][VK]][VK-url] [![Telegram][Telegram]][Telegram-url]
+
+</h3>
+
+---  
 <h3 align="center">Main language:
   
   [![Python][Python]][Python-url]
@@ -78,10 +84,8 @@
   [Django-url]: https://www.djangoproject.com/
   [DjangoREST]: https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray
   [DjangoREST-url]: https://www.django-rest-framework.org/
-  
-  
-  
-  
-  
-  
+  [Telegram]: https://t.me/StasHunter
+  [Telegram-url]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+  [VK]: https://img.shields.io/badge/VK-%231DA1F2.svg?style=for-the-badge&logo=VK&logoColor=white
+  [VK-url]: https://vk.com/stashunter
   
