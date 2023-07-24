@@ -84,8 +84,8 @@
   [Django-url]: https://www.djangoproject.com/
   [DjangoREST]: https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray
   [DjangoREST-url]: https://www.django-rest-framework.org/
-  [Telegram]: https://t.me/StasHunter
-  [Telegram-url]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+  [Telegram-url]: https://t.me/StasHunter
+  [Telegram]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
   [VK]: https://img.shields.io/badge/VK-%231DA1F2.svg?style=for-the-badge&logo=VK&logoColor=white
   [VK-url]: https://vk.com/stashunter
   
