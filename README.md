@@ -74,7 +74,7 @@
   
 <h3 align="center">  
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stashunter92&show_icons=true&theme=material-palenight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanislavmesh&show_icons=true&theme=material-palenight)
   
 </h3>
   
