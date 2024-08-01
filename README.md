@@ -2,8 +2,8 @@
 <h3 align="center">Design Engineer⚙, Python developer🐍</h3>
 <h5 align="center">Saint-Petersburg, Russia</h5>
 <!-- [![codewars](https://www.codewars.com/users/Amisa/badges/small)](https://www.codewars.com/users/Amisa) <br><br> -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stashunter92)](https://github.com/stashunter92/github-readme-stats) <br><br> -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stashunter92&show_icons=true&theme=material-palenight) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanislavmesh)](https://github.com/stanislavmesh/github-readme-stats) <br><br> -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanislavmesh&show_icons=true&theme=material-palenight) -->
 
 ---
 <h3 align="center">🌐 Socials:
